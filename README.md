@@ -12,7 +12,7 @@ If you donnot want to read the pages, you can just run the script. It will build
 
 - where to run the script?
 
-a server which can both connect to the internet and the intranet.
+a server which can both connect to the internet and the intranet ---- often your laptop or a server in the intranet.
 
 - what you will download in the script?
 
