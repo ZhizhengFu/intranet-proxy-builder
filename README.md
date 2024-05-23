@@ -1,7 +1,5 @@
 # intranet-proxy-builder
 
-> warning⚠️: on building now.
-
 - system requirements
 
 macOS or Linux! If you are using Windows, you can use WSL2.
