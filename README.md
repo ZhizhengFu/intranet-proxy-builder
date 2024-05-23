@@ -1,9 +1,5 @@
 # intranet-proxy-builder
 
-- system requirements
-
-macOS or Linux! If you are using Windows, you can use WSL2.
-
 - what is this repository for?
 
 This repository is a script to build a proxy server for the intranet. It is based on the [pages](https://charlesfrazier.github.io/tech/proxy.html) I wrote on my website.
@@ -13,6 +9,19 @@ If you donnot want to read the pages, you can just run the script. It will build
 - where to run the script?
 
 a server which can both connect to the internet and the intranet ---- often your laptop or a server in the intranet.
+
+- system requirements
+
+macOS or Linux! If you are using Windows, you can use WSL2.
+
+- how to run?
+
+```bash
+git clone https://github.com/charlesfrazier/intranet-proxy-builder.git
+cd intranet-proxy-builder
+chmod +x script.sh
+bash script.sh
+```
 
 - what you will download in the script?
 
