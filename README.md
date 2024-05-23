@@ -4,7 +4,7 @@
 
 - system requirements
 
-macOS or Linux!
+macOS or Linux! If you are using Windows, you can use WSL2.
 
 - what is this repository for?
 
