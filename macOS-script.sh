@@ -6,10 +6,6 @@ ZLIB_VERSION=1.3.1
 NGINX_PREFIX=/usr/local/nginx
 NGINX_CONF=$NGINX_PREFIX/conf/nginx.conf
 
-# Install required packages
-# sudo apt-get update
-# sudo apt-get install -y build-essential libssl-dev zlib1g-dev libpcre3 libpcre3-dev wget git
-
 # Download and extract nginx
 wget http://nginx.org/download/nginx-$NGINX_VERSION.tar.gz
 tar -xzf nginx-$NGINX_VERSION.tar.gz
