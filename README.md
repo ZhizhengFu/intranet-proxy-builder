@@ -17,7 +17,7 @@ macOS or Linux! If you are using Windows, you can use WSL2.
 - how to run?
 
 ```bash
-git clone https://github.com/charlesfrazier/intranet-proxy-builder.git
+git clone https://github.com/ZhizhengFu/intranet-proxy-builder.git
 cd intranet-proxy-builder
 chmod +x script.sh
 bash script.sh
